@@ -24,7 +24,7 @@ margin-right: auto;
 .ban1 {
 width:60%;
 /* background: lightblue url("sven-kucinic-1392505-unsplash.gif") no-repeat fixed center; */
-background: url("lex-aliviado-3200-unsplash.jpg");
+background: url("../img/150.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 padding: 2rem 3rem 7rem 3rem ;
@@ -38,7 +38,7 @@ color:rgb(29, 122, 209);
 .ban2 {
 position: relative;
 width:40%;
-background: url("img/alejandro-escamilla-7-unsplash.jpg");
+background: url("../img/151.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -104,7 +104,7 @@ right: 33%;
 width: 12rem;
 height: 12rem;
 border-radius: 50%;
-background: url("img/piesel.jpg");
+background: url("../img/142.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 background-position-x: 50%;
